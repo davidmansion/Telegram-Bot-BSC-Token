@@ -1,4 +1,4 @@
-# simpleTelegramBot
+# Telegram Bot BSC Token
 
 Watch the tutorial for this bot on youtube
 https://youtu.be/EGnlhmfKoIA
